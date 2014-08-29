@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0.0" method="upgrade" overwrite="true">
+    <name>Publications</name>
+    <identifier>com:publications</identifier>
+    <author>Jasper van Rijbroek</author>
+    <creationDate>Augustus 2014</creationDate>
+    <copyright>Copyright (C) 2014 Moyo Web Architects and Contributors. (http://www.moyoweb.nl)</copyright>
+    <license>GNU GPLv3 - http://www.gnu.org/licenses/gpl.html</license>
+    <authorEmail>jasper@moyoweb.nl</authorEmail>
+    <authorUrl>www.moyoweb.nl</authorUrl>
+    <version>0.1.0</version>
+    <description>Publications</description>
+
+    <install>
+        <sql>
+            <file driver="mysql" charset="utf8">install/install.sql</file>
+        </sql>
+    </install>
+
+    <administration>
+        <files folder="administrator/components/com_publications">
+            <file>dispatcher.php</file>
+            <file>publications.php</file>
+
+            <folder>databases</folder>
+            <folder>install</folder>
+            <folder>language</folder>
+            <folder>models</folder>
+            <folder>views</folder>
+        </files>
+
+        <menu>COM_PUBLICATIONS</menu>
+    </administration>
+</extension>
