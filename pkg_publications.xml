@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="1.6">
     <name>Publications</name>
-    <author>Jasper van Rijbroek</author>
-    <creationDate>Augustus 2014</creationDate>
+    <author>Moyo Web Architects</author>
+    <creationDate>March 2015</creationDate>
     <packagename>publications</packagename>
     <version>0.1.0</version>
     <url>http://www.moyoweb.nl/</url>
