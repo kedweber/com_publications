@@ -1,0 +1,17 @@
+{
+    "name": "cta/publications",
+    "type": "joomlatools-installer",
+    "description": "Publications component for Moyoweb CCK",
+    "keywords": ["joomla", "nooku", "menu"],
+    "homepage": "https://github.com/cta-int/publications",
+    "authors": [
+        {
+            "name": "Jasper van Rijbroek",
+            "email": "jasper@moyoweb.nl",
+            "homepage": "http://www.moyoweb.nl"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
