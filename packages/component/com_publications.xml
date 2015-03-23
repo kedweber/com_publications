@@ -2,9 +2,9 @@
 <extension type="component" version="3.0.0" method="upgrade" overwrite="true">
     <name>Publications</name>
     <identifier>com:publications</identifier>
-    <author>Jasper van Rijbroek</author>
-    <creationDate>Augustus 2014</creationDate>
-    <copyright>Copyright (C) 2014 Moyo Web Architects and Contributors. (http://www.moyoweb.nl)</copyright>
+    <author>Moyo Web Architects</author>
+    <creationDate>March 2015</creationDate>
+    <copyright>Copyright (C) 2015 Moyo Web Architects and Contributors. (http://www.moyoweb.nl)</copyright>
     <license>GNU GPLv3 - http://www.gnu.org/licenses/gpl.html</license>
     <authorEmail>jasper@moyoweb.nl</authorEmail>
     <authorUrl>www.moyoweb.nl</authorUrl>
