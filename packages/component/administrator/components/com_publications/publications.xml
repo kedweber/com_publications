@@ -19,6 +19,8 @@
 
     <administration>
         <files folder="administrator/components/com_publications">
+            <file>access.xml</file>
+            <file>config.xml</file>
             <file>dispatcher.php</file>
             <file>publications.php</file>
 
