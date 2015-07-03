@@ -1,9 +1,9 @@
 {
-    "name": "cta/publications",
+    "name": "moyo/publications",
     "type": "joomlatools-installer",
     "description": "Publications component for Moyoweb CCK",
     "keywords": ["joomla", "nooku", "menu"],
-    "homepage": "https://github.com/cta-int/publications",
+    "homepage": "https://github.com/moyoweb/publications",
     "authors": [
         {
             "name": "Jasper van Rijbroek",
